@@ -32,11 +32,11 @@ Diwali is a major festival in India, often accompanied by a surge in shopping an
 
 - Key Metrics Calculation: Computed essential metrics, such as monthly profit, sales figures by region, and quantities sold by product category.
 - Behavioral Analysis: Studied customer purchase patterns and payment methods used.
-- Visualization: Developed visualizations to identify trends and insights, using tools like matplotlib and seaborn.
+- Visualization: Developed visualizations to identify trends and insights, using tools like Matplotlib and Seaborn.
 
 5) Dashboard Design:
 
-- Tool Used: Created an interactive dashboard using Power BI.
+- Tool Used: Created interactive charts using Matplotlib and Seaborn.
 - Visual Elements: Included bar charts, pie charts, and line charts to effectively convey insights.
 - Summary Metrics: Displayed key metrics like total sales, total profit, and units sold through summary cards.
 
